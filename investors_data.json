@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Maria Thomas",
+        "email": "m_thomas@gmail.com",
+        "phone": "1234567890"
+    },
+    {
+        "id": 2,
+        "name": "David John",
+        "email": "david_jo@gmail.com",
+        "phone": "9876543210"
+    },
+    {
+        "id": 3,
+        "name": "abc xyz",
+        "email": "abc_x@gmail.com",
+        "phone": "1234567890"
+    },
+    {
+        "id": 4,
+        "name": "starlet",
+        "email": "star234@gmail.com",
+        "phone": "1234567890"
+    },
+    {
+        "id": 6,
+        "name": "Aizen Ahmed",
+        "email": "aizen123@gmail.com",
+        "phone": "7891023456"
+    },
+    {
+        "id": 7,
+        "name": "Lana",
+        "email": "lana@gmail.com",
+        "phone": "1234567890"
+    },
+    {
+        "id": 9,
+        "name": "HIJK",
+        "email": "hijk@gmail.com",
+        "phone": "1234567890"
+    },
+    {
+        "name": "Shijil",
+        "email": "shijil@gmail.com",
+        "phone": "1234567890",
+        "id": 10
+    },
+    {
+        "name": "xyz",
+        "email": "xyz@gmail.com",
+        "phone": "1234567890",
+        "id": 11
+    }
+]
